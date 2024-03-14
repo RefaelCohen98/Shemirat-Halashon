@@ -15,6 +15,7 @@ function ShemiratHalashon() {
   }, [])
   
   return (
+    // TODO: A add a picture of th Hafetzh-Haim
     <div>Shemirat Halashon!</div>
   )
 }
